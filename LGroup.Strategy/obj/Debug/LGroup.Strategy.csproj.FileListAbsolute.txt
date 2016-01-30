@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy\bin\Debug\LGroup.Strategy.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy\bin\Debug\LGroup.Strategy.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy\bin\Debug\LGroup.Strategy.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy\bin\Debug\LGroup.Strategy.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy\obj\Debug\LGroup.Strategy.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy\obj\Debug\LGroup.Strategy.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy\obj\Debug\LGroup.Strategy.pdb

@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\obj\Debug\LGroup.Strategy.UnitTest.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\LGroup.Strategy.UnitTest.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\LGroup.Strategy.UnitTest.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\LGroup.Strategy.Business.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\LGroup.Strategy.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\LGroup.Strategy.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\nunit.framework.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\LGroup.Strategy.Business.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\LGroup.Strategy.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\LGroup.Strategy.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\bin\Debug\nunit.framework.xml
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\obj\Debug\LGroup.Strategy.UnitTest.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.UnitTest\obj\Debug\LGroup.Strategy.UnitTest.pdb

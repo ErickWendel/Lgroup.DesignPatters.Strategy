@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Strategy.Model", "LGroup.Strategy.Model\LGroup.Strategy.Model.csproj", "{938049D5-A03D-4FB6-9D3B-631C19E88A0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Strategy", "LGroup.Strategy\LGroup.Strategy.csproj", "{463ECB54-D3FC-4B55-A1DF-CD83B854E565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Strategy.Business", "LGroup.Strategy.Business\LGroup.Strategy.Business.csproj", "{3E4B3631-BD3B-4352-923F-99229396307B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LGroup.Strategy.UnitTest", "LGroup.Strategy.UnitTest\LGroup.Strategy.UnitTest.csproj", "{5745EE5B-AE39-405C-B10D-B5A2A5ADDB85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Definicao de Estratégias", "Definicao de Estratégias", "{D1B4AF2B-E652-4A6D-938A-9DD44EC17B44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Armazenamento de dados", "Armazenamento de dados", "{8BECA7B6-0366-46DC-8994-87984D43B447}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Regras de Negócio", "Regras de Negócio", "{B1F41F63-3CE0-4C0C-8B7B-FA52DB3AB00D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Robo de Testes", "Robo de Testes", "{BDBD17F9-6308-4C0F-93FC-BB0C061984F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{938049D5-A03D-4FB6-9D3B-631C19E88A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938049D5-A03D-4FB6-9D3B-631C19E88A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938049D5-A03D-4FB6-9D3B-631C19E88A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938049D5-A03D-4FB6-9D3B-631C19E88A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463ECB54-D3FC-4B55-A1DF-CD83B854E565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463ECB54-D3FC-4B55-A1DF-CD83B854E565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463ECB54-D3FC-4B55-A1DF-CD83B854E565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463ECB54-D3FC-4B55-A1DF-CD83B854E565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4B3631-BD3B-4352-923F-99229396307B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4B3631-BD3B-4352-923F-99229396307B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4B3631-BD3B-4352-923F-99229396307B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4B3631-BD3B-4352-923F-99229396307B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5745EE5B-AE39-405C-B10D-B5A2A5ADDB85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5745EE5B-AE39-405C-B10D-B5A2A5ADDB85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5745EE5B-AE39-405C-B10D-B5A2A5ADDB85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5745EE5B-AE39-405C-B10D-B5A2A5ADDB85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{938049D5-A03D-4FB6-9D3B-631C19E88A0B} = {8BECA7B6-0366-46DC-8994-87984D43B447}
+		{463ECB54-D3FC-4B55-A1DF-CD83B854E565} = {D1B4AF2B-E652-4A6D-938A-9DD44EC17B44}
+		{3E4B3631-BD3B-4352-923F-99229396307B} = {B1F41F63-3CE0-4C0C-8B7B-FA52DB3AB00D}
+		{5745EE5B-AE39-405C-B10D-B5A2A5ADDB85} = {BDBD17F9-6308-4C0F-93FC-BB0C061984F1}
+	EndGlobalSection
+EndGlobal

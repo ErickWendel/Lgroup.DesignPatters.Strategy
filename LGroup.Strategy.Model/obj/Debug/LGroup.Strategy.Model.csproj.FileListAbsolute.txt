@@ -1,0 +1,4 @@
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.Model\bin\Debug\LGroup.Strategy.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.Model\bin\Debug\LGroup.Strategy.Model.pdb
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.Model\obj\Debug\LGroup.Strategy.Model.dll
+\\vmware-host\Shared Folders\Desktop\DESIGN PATTERNS\LGroup.Strategy\LGroup.Strategy.Model\obj\Debug\LGroup.Strategy.Model.pdb
